@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "jugar.mevoyahincharapajas.dpdns.org",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Estoy pa q no se muera el server"
       ]
     },
     "chat-log": true,
@@ -60,7 +58,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
